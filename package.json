@@ -1,0 +1,17 @@
+{
+  "name": "mongo3-s3-streaming-backup",
+  "version": "0.0.1",
+  "description": "Streaming backup of mongo to s3. Can be used as aws lambda",
+  "main": "index.js",
+  "keywords": [
+    "s3",
+    "mongodb",
+    "backup",
+    "aws"
+  ],
+  "author": "lukasz.kaniowski@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "parse-mongo-url": "^1.1.1"
+  }
+}
