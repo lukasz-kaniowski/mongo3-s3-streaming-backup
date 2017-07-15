@@ -13,5 +13,9 @@
   "license": "MIT",
   "dependencies": {
     "parse-mongo-url": "^1.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nmblcdrs/mongo3-s3-streaming-backup"
   }
 }
